@@ -1,7 +1,4 @@
 #include <stdio.h>
-Ex. No: 6
- Semaphore Implementation
-43
 #include <stdlib.h>
 #include <unistd.h>
 #include <semaphore.h>
